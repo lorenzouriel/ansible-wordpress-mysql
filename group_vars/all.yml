@@ -1,0 +1,7 @@
+---
+wp_db_name: "wordpress_db"
+wp_db_user: "wordpress_user"
+wp_db_pass: "12345"
+db_id: "10.0.0.107"
+wp_id: "10.0.0.106"
+wp_dir: "/srv/www/wordpress"

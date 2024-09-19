@@ -1,0 +1,11 @@
+# Created by https://www.toptal.com/developers/gitignore/api/ansible
+# Edit at https://www.toptal.com/developers/gitignore?templates=ansible
+
+### Ansible ###
+*.retry
+
+### Pub Keys
+delta1.pub
+delta1
+deltadb.pub
+deltadb
